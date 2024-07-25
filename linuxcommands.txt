@@ -1,0 +1,72 @@
+LINUX COMMANDS
+
+Basic Navigation and File Management
+ls: Lists files and directories in the current directory.
+ cd: Changes the current working directory.
+ pwd: Prints the current working directory.                                                                                                                                                                                 mkdir: Creates a new directory.
+ rmdir: Removes an empty directory.
+ cp: Copies files and directories.
+ mv: Moves or renames files and directories.
+ rm: Removes files or directories.                                                                                                                                                                                                         touch: Creates empty files.
+ln: Creates symbolic links.
+clear: Clears the terminal screen.
+
+
+File Viewing and Editing
+cat: Concatenates and displays file contents.
+more: Displays file contents one page at a time.
+less: Similar to more, but with additional features.
+head: Displays the first few lines of a file.
+tail: Displays the last few lines of a file.
+nano: A simple text editor.
+vim: A powerful text editor.
+
+
+Searching and Filtering
+grep: Searches for patterns in files.
+find: Searches for files and directories based on criteria.
+locate: Quickly finds files based on a database.
+sort: Sorts text data.
+uniq: Filters out repeated lines.
+cut: Extracts columns from text.
+paste: Merges lines from multiple files.
+
+
+Process Management
+ps: Displays information about running processes.
+kill: Terminates a process.
+top: Displays real-time system and process information.
+htop: An interactive process viewer.
+
+
+System Information
+uname: Displays system information.
+whoami: Displays the current user.
+df: Displays disk space usage.
+du: Displays disk usage by directory.
+free: Displays memory usage.
+uptime: Displays system uptime.
+
+
+Networking
+ping: Tests network connectivity.
+ifconfig: Configures network interfaces.
+netstat: Displays network connections.
+ssh: Secure shell for remote login.
+scp: Secure copy for transferring files.
+
+
+Package Management (depends on distribution)
+apt (Debian/Ubuntu)
+yum (CentOS/RHEL)
+dnf (Fedora)
+pacman (Arch Linux)
+
+
+Additional Commands
+man: Access online manual pages.
+chmod: Changes file permissions.
+chown: Changes file ownership.
+gzip: Compresses files.
+tar: Creates archives.
+unzip: Extracts ZIP archives
